@@ -1,4 +1,4 @@
-# Image_conversion
+# Image conversion
 
 The objective of this project is to convert an MP2RAGE image (MR image with T1 contrast) to a FLASH image (MR image with T2 contrast). The data set we are using is open source 7T brain images:http://datadryad.org/resource/doi:10.5061/dryad.fb41s. Our current plan is to implement a CNN in tensorflow for this task.
 
